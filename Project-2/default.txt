@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+	<title> Restaurant Web Template </title>
+	<link rel="stylesheet" href="style1.css">
+</head>
+<body>
+
+<!--HEADER-->
+<header>
+	<div class="head">
+		<h2> Bellyful </h2>
+	</div>
+<!--NAVIGATION-->
+	<nav>
+		<ul>
+		<li><a href="#" class="abc">Home</a></li>
+		<li><a href="#"></a>About</li>
+		<li><a href="#"></a>Services</li>
+		<li><a href="#"></a>News & Events</li>
+		<li><a href="#"></a>Mail Us</li>
+		</ul>
+	</nav>
+<!--END OF NAVIGATION-->
+</header>
+<!--END OF HEADER-->
+
+<!--SHOWCASE-->
+	<showcase>
+		<div class="def">
+			<h1>Food tastes better when you eat it with your family!!</h1>
+			<h3>Veg Non-Veg and all kinds of snacks are available!!</h1>
+
+			<div class="Thai">
+				<img src="" alt="">
+				<h4>Thai Tanic</h4>
+			</div>
+			<div class="Snacks">
+				<img src="" alt="">
+				<h4>Evening Snacks</h4>
+			</div>
+
+			<div class="Grill">
+				<img src="" alt="">
+				<h4>Gochew Grill</h4>
+
+			</div>
+		</div>
+<!--END OF SHOWCASE-->
+		<a href="#"><button class="btn">Read More...</button></a>
+
+
+
+
+
+
