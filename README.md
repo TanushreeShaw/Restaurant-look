@@ -1,1 +1,1 @@
-<h1>A Restaurant Webpage made by using HTML and CSS.</h1>
+<h3>A Restaurant Webpage made by using HTML and CSS.</h3>
